@@ -5,6 +5,14 @@
     line-height: 16px;
 }
 
+@media (max-width: 720px)  { 
+
+    .footer__copyright {
+        margin-top: 15px;
+    }
+    
+}
+
 @media (max-width: 450px)  { 
 
     .footer__copyright {

@@ -35,6 +35,18 @@ a.footer__link:first-child {
     
 }
 
+@media (max-width: 720px) {
+
+    .footer__link {
+        text-decoration: none;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 18px;
+        color: #FFFFFF;
+    }
+    
+    }
+
 @media (max-width: 450px)  { 
 
     .footer__link {
