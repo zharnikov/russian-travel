@@ -1,5 +1,5 @@
 .footer {
-    max-width: 1280px; 
+    max-width: 1280px;
     margin: 92px 48px;
     margin-bottom: 24px;
     display: flex;
@@ -10,7 +10,7 @@
 @media (max-width: 1024px) {
 
     .footer {
-        max-width: calc(100% - 48px * 2); 
+        max-width: calc(100% - 48px * 2);
         margin: 92px auto 24px;
         display: flex;
         justify-content: space-between;
@@ -22,7 +22,7 @@
 @media (max-width: 768px) {
 
     .footer {
-        max-width: calc(100% - 24px * 2); 
+        max-width: calc(100% - 24px * 2);
         margin: 92px auto 24px;
         display: flex;
         justify-content: space-between;
