@@ -1,5 +1,5 @@
 .header {
-    max-width: 1280px; 
+    max-width: 1280px;
     margin: 28px 48px;
     margin-bottom: 0;
     display: flex;
@@ -9,7 +9,7 @@
 @media (max-width: 1024px) {
 
     .header {
-        max-width: calc(100% - 48px * 2); 
+        max-width: calc(100% - 48px * 2);
         margin: 28px auto;
     }
 
@@ -18,7 +18,7 @@
 @media (max-width: 768px) {
 
     .header {
-        max-width: calc(100% - 24px * 2); 
+        max-width: calc(100% - 24px * 2);
         margin: 28px auto;
     }
 
@@ -27,7 +27,7 @@
 @media (max-width: 700px) {
 
     .header {
-        max-width: calc(100% - 24px * 2); 
+        max-width: calc(100% - 24px * 2);
         margin: 28px auto;
     }
 
@@ -36,7 +36,7 @@
 @media (max-width: 450px)  { 
 
     .header {
-        max-width: calc(100% - 16px * 2); 
+        max-width: calc(100% - 16px * 2);
         margin: 16px auto;
     }
     
