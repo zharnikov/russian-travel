@@ -1,3 +1,16 @@
+/* NORMALIZE */
 @import url(../vendor/normalize.css);
 
+/* FONTS */
 @import url(../vendor/fonts/fonts.css);
+
+/* BODY */
+@import url(../bloks/body/body.css);
+
+/* LOGO */
+@import url(../bloks/logo/logo.css);
+
+/* HEADER */
+@import url(../bloks/header/header.css);
+@import url(../bloks/header/__lang-links/header__lang-links.css);
+@import url(../bloks/header/__lang-link/header__lang-link.css);
