@@ -13,7 +13,7 @@
 
 /* HEADER */
 
-.header {
+/* .header {
     max-width: 1280px; 
     margin: 28px 48px;
     margin-bottom: 0;
@@ -26,7 +26,7 @@
     max-height: 52px;
 } */
 
-.header__lang-links {
+/* .header__lang-links {
     padding: 0;
     list-style-type: none;
     margin: 0;
@@ -47,18 +47,18 @@
 .header__lang-link-active {
     border-bottom: 1px solid #FFFFFF;
     margin-right: 18px;
-}
+}  */
 
 /* MAIN */
 
-.page {
+/* .page {
     max-width: 1280px;
     margin: 0;
-}
+} */
 
 /* LEAD */
 
-.lead {
+/* .lead {
     max-width: 984px;
     margin: 56px auto;
     margin-bottom: 0;
@@ -90,30 +90,30 @@
     width: 100%;
     /* max-width: 984px;
     max-height: 615px; */
-    margin-top: 64px;
-}
+    /* margin-top: 64px;
+} */
 
-.lead__caption {
+/* .lead__caption {
     font-weight: 400;
     font-size: 10px;
     line-height: 14px;
     margin: 0;
     margin-top: 8px;
     align-self: flex-start;
-}
+}  */
 
 /* INTRO */
 
-.intro {
+/* .intro {
     max-width: 984px;
     margin: 92px auto;
     margin-bottom: 0;
     display: flex;
     flex-direction: column;
 
-}
+} */
 
-.intro__title {
+/* .intro__title {
     max-width: 690px;
     margin: 0;
     font-weight: 900;
@@ -138,11 +138,11 @@
     font-weight: 700;
     font-size: 12px;
     line-height: 18px;  
-}
+} */
 
 /* PHOTO_GRID */
 
-.photo_grid {
+/* .photo_grid {
     max-width: calc(100% - 48px * 2);
     margin: 92px auto;
     margin-bottom: 0;
@@ -154,62 +154,62 @@
 
 .photo_grid__item {
     width: 100% ;
-}
+} */
 
 /* PLACES */
 
-.places {
+/* .places {
     max-width: 984px;
     margin: 92px auto;
     margin-bottom: 0;
-}
+} */
 
-.place {
+/* .place {
     margin-top: 80px;
     display: grid;
     grid-template-columns: minmax(460px, 1fr) minmax(min-content, max-content);
     grid-template-rows: minmax(min-content, max-content) minmax(460px, 1fr);
     gap: 48px 40px;
-}
+} */
 
-.place__title {
+/* .place__title {
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     margin: 0;
-}
+} */
 
-.place__website {
+/* .place__website {
     align-self: end;
-}
+} */
 
-.place__url-headeing {
+/* .place__url-headeing {
     font-weight: 400;
     font-size: 12px;
     line-height: 12px;
     color: #AAAAAA;
     margin: 0;
     margin-bottom: 12px;
-}
+} */
 
-.place__image {
+/* .place__image {
    width: 100%;
-}
+} */
 
-.place__link {
+/* .place__link {
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
     text-decoration: none;
     border-bottom: 1px solid #FFFFFF;
-}
+} */
 
-.place__link:hover {
+/* .place__link:hover {
     opacity: 0.8;
-}
+} */
 
-.place__paragraph {
+/* .place__paragraph {
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
@@ -219,21 +219,21 @@
 
 p.place__paragraph:nth-child(odd) {
     margin: 0;
-}
+} */
 
 
 
 
 /* COVER */
 
-.cover {
+/* .cover {
     max-width: calc(100% - 48px * 2);
     margin: 92px auto;
     margin-bottom: 0;
     position: relative;
-}
+} */
 
-.cover__link {
+/* .cover__link {
     min-height: 740px;
     display: flex;
     flex-direction: column;
@@ -241,18 +241,18 @@ p.place__paragraph:nth-child(odd) {
     align-items: center;
     text-decoration: none;
     color: #FFFFFF;
-}
+} */
 
-.cover__background {
+/* .cover__background {
     position: absolute;
     width: 100%;
     height: 100%;
     left: 0px;
     top: 0px;
     z-index: 1;
-}
+} */
 
-.cover__title {
+/* .cover__title {
     max-width: 560px;
     font-weight: 900;
     font-size: 72px;
@@ -260,9 +260,9 @@ p.place__paragraph:nth-child(odd) {
     text-align: center;
     z-index: 3;
     margin: 0;
-}
+} */
 
-.cover__subtitle {
+/* .cover__subtitle {
     max-width: 360px;
     font-weight: 400;
     font-size: 18px;
@@ -271,9 +271,9 @@ p.place__paragraph:nth-child(odd) {
     z-index: 3;
     margin: 0;
     margin-top: 32px;
-}
+} */
 
-.cover__overlay {
+/* .cover__overlay {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -286,7 +286,7 @@ p.place__paragraph:nth-child(odd) {
 
 .cover__overlay:hover {
     opacity: 0.8;
-}
+} */
 
 
 /* FOOTER */

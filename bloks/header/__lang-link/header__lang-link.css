@@ -6,3 +6,8 @@
     text-decoration: none;
     align-self: flex-end;
 }
+
+.header__lang-link-active {
+    border-bottom: 1px solid #FFFFFF;
+    margin-right: 18px;
+}

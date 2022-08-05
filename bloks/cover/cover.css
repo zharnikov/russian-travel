@@ -1,0 +1,6 @@
+.cover {
+    max-width: calc(100% - 48px * 2);
+    margin: 92px auto;
+    margin-bottom: 0;
+    position: relative;
+}
