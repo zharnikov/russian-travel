@@ -5,3 +5,21 @@
     display: flex;
     flex-direction: column;
 }
+
+@media (max-width: 1024px) {
+
+    .intro {
+        max-width: calc(100% - 48px * 2);
+        margin: 88px auto;
+    }
+    
+}
+
+@media (max-width: 768px) {
+
+    .intro {
+        max-width: calc(100% - 24px * 2);
+        margin: 88px auto 0;
+    }
+    
+}

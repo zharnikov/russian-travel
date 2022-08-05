@@ -6,3 +6,21 @@
     flex-direction: column;
     align-items: center;
 }
+
+@media (max-width: 1024px) {
+
+    .lead {
+        max-width: calc(100% - 48px * 2);
+        margin: 56px auto;
+    }
+    
+}
+
+@media (max-width: 768px) {
+
+    .lead {
+        max-width: 100%;
+        margin: 56px 0 0;
+    }
+    
+}

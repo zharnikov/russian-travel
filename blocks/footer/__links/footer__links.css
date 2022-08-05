@@ -1,0 +1,18 @@
+@media (max-width: 1024px) {
+
+    .footer__links {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+}
+
+@media (max-width: 768px) {
+
+    .footer__links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+}

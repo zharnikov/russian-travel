@@ -6,3 +6,11 @@
     margin-top: 8px;
     align-self: flex-start;
 }
+
+@media (max-width: 768px) {
+
+    .lead__caption {
+        margin: 16px;
+    }
+    
+}
