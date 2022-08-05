@@ -32,8 +32,8 @@
 @import url(../blocks/intro/__list/intro__list.css);
 
 /* PHOTO_GRID */
-@import url(../blocks/photo_grid/photo_grid.css);
-@import url(../blocks/photo_grid/__item/photo_grid__item.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 /* PLACES */
 @import url(../blocks/places/places.css);
