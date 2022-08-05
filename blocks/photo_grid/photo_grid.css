@@ -26,3 +26,27 @@
     }
     
 }
+
+@media (max-width: 700px) {
+
+    .photo_grid {
+        max-width: calc(100% - 24px * 2);
+        grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
+        grid-template-rows: repeat(auto-fit, minmax(216px, 1fr));
+        gap: 14px;
+    }
+
+}
+
+@media (max-width: 450px)  { 
+
+    .photo_grid {
+        max-width: calc(100% - 16px * 2);
+        margin: 64px auto;
+        grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
+        grid-template-rows: repeat(auto-fit, minmax(216px, 1fr));
+        gap: 12px;
+    }
+    
+}
+

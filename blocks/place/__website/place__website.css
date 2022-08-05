@@ -1,3 +1,21 @@
 .place__website {
     align-self: end;
 }
+
+@media (max-width: 700px) {
+
+    .place__website {
+        align-self: flex-start;
+    }
+
+}
+
+@media (max-width: 450px)  { 
+
+    .place__website {
+        align-self: flex-start;
+        margin: 0;
+        margin-left: 16px;
+    }
+    
+}

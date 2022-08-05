@@ -6,3 +6,12 @@
     margin: 0;
     margin-bottom: 12px;
 }
+
+@media (max-width: 450px)  { 
+
+    .place__url-headeing {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    
+}

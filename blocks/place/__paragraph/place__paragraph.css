@@ -21,3 +21,28 @@ p.place__paragraph:nth-child(odd) {
     }
     
 }
+
+@media (max-width: 700px) {
+
+    .place__paragraph {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 163%;
+        margin: 0;
+        margin-top: 26px;
+    }
+
+}
+
+@media (max-width: 450px)  { 
+
+    .place__paragraph {
+        font-size: 16px;
+        margin: 26px 16px 0;
+    }
+
+    p.place__paragraph:nth-child(odd) {
+        margin: 0 16px 0;
+    }
+    
+}

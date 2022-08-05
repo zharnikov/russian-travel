@@ -24,3 +24,23 @@
     }
     
 }
+
+@media (max-width: 700px) {
+
+    .cover {
+        max-width: 700px;
+        margin: 92px 0 0;
+        position: relative;
+    }
+
+}
+
+@media (max-width: 450px)  { 
+
+    .cover {
+        max-width: 450px;
+        margin: 66px auto;
+        margin-bottom: 0;
+    }
+    
+}
