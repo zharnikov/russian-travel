@@ -4,4 +4,6 @@
 
 3. Проект сделан с помощью HTML и CSS.
 
-4. Ссылка на сайт: https://zharnikov.github.io/russian-travel/
+4. Добавить английскую версию сайта.
+
+5. Ссылка на сайт: https://zharnikov.github.io/russian-travel/
