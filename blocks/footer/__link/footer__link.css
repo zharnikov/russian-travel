@@ -11,50 +11,11 @@ a.footer__link:first-child {
     margin: 0;
 }
 
-@media (max-width: 1024px) {
-
-    .footer__link {
-        text-decoration: none;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 18px;
-        color: #FFFFFF;
-    }
-    
-}
-
-@media (max-width: 768px) {
-
-    .footer__link {
-        text-decoration: none;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 18px;
-        color: #FFFFFF;
-    }
-    
-}
-
-@media (max-width: 720px) {
-
-    .footer__link {
-        text-decoration: none;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 18px;
-        color: #FFFFFF;
-    }
-    
-    }
-
 @media (max-width: 450px)  { 
 
     .footer__link {
-        text-decoration: none;
-        font-weight: 400;
         font-size: 24px;
         line-height: 24px;
-        color: #FFFFFF;
         margin: 32px 0 0;
     }
 

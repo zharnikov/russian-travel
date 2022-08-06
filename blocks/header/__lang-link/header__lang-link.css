@@ -18,10 +18,5 @@
         font-size: 18px;
         line-height: 20px;
     }
-
-    .header__lang-link-active {
-        border-bottom: 1px solid #FFFFFF;
-        margin-right: 18px;
-    }
     
 }
