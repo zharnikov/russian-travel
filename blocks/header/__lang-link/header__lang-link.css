@@ -12,10 +12,6 @@
     opacity: 0.8;
 }
 
-.lang-link_active {
-    border-bottom: 1px solid #FFFFFF;
-}
-
 @media (max-width: 450px)  { 
 
     .header__lang-link {
