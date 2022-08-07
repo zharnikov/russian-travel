@@ -19,18 +19,8 @@
 
     .intro {
         max-width: calc(100% - 24px * 2);
-        margin: 88px auto 0;
     }
     
-}
-
-@media (max-width: 700px) {
-
-    .intro {
-        max-width: calc(100% - 24px * 2);
-        margin: 88px auto 0;
-    }
-
 }
 
 @media (max-width: 450px)  { 

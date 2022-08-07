@@ -33,13 +33,3 @@
     }
 
 }
-
-@media (max-width: 450px)  { 
-
-    .place {
-        margin-top: 50px;
-        display: flex;
-        flex-direction: column;
-    }
-    
-}

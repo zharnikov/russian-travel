@@ -5,11 +5,15 @@
     line-height: 28px;
     text-decoration: none;
     align-self: flex-end;
+    margin-left: 18px;
 }
 
-.header__lang-link-active {
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
+.lang-link_active {
     border-bottom: 1px solid #FFFFFF;
-    margin-right: 18px;
 }
 
 @media (max-width: 450px)  { 
