@@ -15,6 +15,7 @@
 @media (max-width: 768px) {
     
     .places {
+        margin: 88px auto;
         max-width: calc(100% - 24px * 2);
     }
     

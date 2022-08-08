@@ -18,6 +18,7 @@
 @media (max-width: 768px) {
 
     .footer {
+        margin: 88px auto 24px;
         max-width: calc(100% - 24px * 2);
     }
     

@@ -7,6 +7,10 @@
     background-size: cover;
 }
 
+.cover:hover .cover__overlay {
+    opacity: 0.8;
+  }
+
 @media (max-width: 1024px) {
 
     .cover {

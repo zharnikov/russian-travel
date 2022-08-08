@@ -8,6 +8,16 @@
     margin: 0;
 }
 
+@media (max-width: 550px)  { 
+
+    .cover__title {
+        max-width: 540px;
+        font-size: 60px;
+        line-height: 76px;
+    }
+    
+}
+
 @media (max-width: 450px)  { 
 
     .cover__title {
