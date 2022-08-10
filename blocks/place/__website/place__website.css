@@ -14,9 +14,8 @@
 
     .place__website {
         margin: 0;
+        margin-top: 32px;
         margin-left: 16px;
-        margin-top: -14px;
-        margin-bottom: -15px;
     }
     
 }

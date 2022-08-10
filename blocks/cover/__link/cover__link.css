@@ -24,14 +24,6 @@
     
 }
 
-@media (max-width: 700px) {
-
-    .cover__link {
-        min-height: 480px;
-    }
-
-}
-
 @media (max-width: 450px)  { 
 
     .cover__link {

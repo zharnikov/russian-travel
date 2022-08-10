@@ -3,7 +3,7 @@
     margin: 92px auto;
     margin-bottom: 0;
     position: relative;
-    background-image: url(../cover/__background/__background.png);
+    background-image: url(../cover/__background.png);
     background-size: cover;
 }
 

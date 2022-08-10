@@ -1,5 +1,5 @@
 .place {
-    margin-top: 80px;
+    margin-top: 88px;
     display: grid;
     grid-template-columns: minmax(460px, 1fr) minmax(min-content, max-content);
     grid-template-rows: minmax(min-content, max-content) minmax(460px, 1fr);
@@ -28,6 +28,7 @@
 @media (max-width: 768px) {
 
     .place {
+        margin-top: 88px;
         grid-template-columns: minmax(340px, 1fr) minmax(min-content, max-content);
         grid-template-rows: minmax(min-content, max-content) minmax(340px, 1fr);
         gap: 48px 28px;
@@ -41,6 +42,8 @@
         margin-top: 50px;
         display: flex;
         flex-direction: column;
+        justify-content: start;
+        gap: 0;
     }
 
 }
